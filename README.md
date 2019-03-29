@@ -29,7 +29,6 @@
 **主要贡献：** 编写了公共的less/sass变量，并结合webpack配置成全局变量，统一规范。提出了团队对于git分支处理的问题以及参与设计git管理项目方案，规范了git分支管理操作。参与了微前端服务架构的调研，并以ppt的方式介绍微前端。提出了大家在学习的同时应该记录下来，所以也参与了公司内部博客搭建的建设。
 
 ## 上海贴近信息技术有限公司 （ 2017年10月 ~ 2018年12月 ）
-
 ### [贴近App H5项目](https://github.com/ZooTopiaGG/closer-h5)
 **涉及技术：** Vue+Vuex+Nuxt+axios+Webpack+Less
 **项目职责：** 我在此项目中主要负责了app分享系统、内嵌H5以及活动推广等模块的前端业务流程开发，维护，迭代以及性能优化，此项目主要解决了APP的对外分享和对外推广的问题。
@@ -52,6 +51,10 @@
 **涉及技术：** Vue+Vuex+axios+MintUI+Webpack+Less
 **项目职责：** 我在此项目中主要负责电话咨询、定向咨询以及分答模式等网上办公室的前端业务流程开发、维护，便于用户即用即走。
 **项目贡献：** vue系列技术调研，架构前端工程化项目进行项目改造，提高前端团队开发效率、降低团队维护成本以及便于迭代和增强团队技能水平
+## Demo
+### [基于react+electron仿网易云音乐App](https://github.com/ZooTopiaGG/awesome-react-electron.git)
+**涉及技术：** React+react-router-dom+Redux+axios+Electron+Ant Design+lodash
+**项目描述：** 该项目主要是想检验自己react学习效果，因为之前一直是在学习，然后简简单单地写一些东西，没有系统的写一个demo，因此几乎没有遇到什么问题，但是一开始做项目，根据业务场景会遇到一些不同的问题，从而加深对react的掌握。
 # 作品
 ## 我的博客
 - [独立开发的个人博客，vue+nuxt+node+mysql，欢迎来学习交流](http://www.55lover.com/)
@@ -60,7 +63,7 @@
 ## 技术文章
 - [vue指令-兼容移动端安卓和IOS的播放器](http://www.55lover.com/adetails/p/8db55a7e-f7ca-409d-94c4-1bda4cd03fd4)
 - [mysql的常用命令详解](http://www.55lover.com/adetails/p/4e12af86-d6cc-47be-a7ae-bf88ae06b1a4)
-- [数据库被黑掉了，该怎么办？(原创)](http://www.55lover.com/adetails/p/b6859cc6-b52a-467c-b5d8-5d5e87a23c1f)
+- [数据库被黑掉了，该怎么办？](http://www.55lover.com/adetails/p/b6859cc6-b52a-467c-b5d8-5d5e87a23c1f)
 
 # 技能清单
 
