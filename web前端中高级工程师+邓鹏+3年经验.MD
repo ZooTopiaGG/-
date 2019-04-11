@@ -15,7 +15,6 @@
  - Github：[@ZooTopiaGG](http://github.com/ZooTopiaGG) http://github.com/ZooTopiaGG
 
  - 期望职位：web前端中高级工程师
- - 期望薪资：面议
  - 期望城市：成都
 
 # 技能清单
